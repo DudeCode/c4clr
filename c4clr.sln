@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A2E47E37-D406-4630-9221-E5A0E27AC697}"
+EndProject
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "c4clr", "src\c4clr\c4clr.csproj", "{0750EEBC-9026-4047-B2BD-9C1D3736D818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|x64.ActiveCfg = Debug|x64
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|x64.Build.0 = Debug|x64
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|x86.ActiveCfg = Debug|x86
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Debug|x86.Build.0 = Debug|x86
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|x64.ActiveCfg = Release|x64
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|x64.Build.0 = Release|x64
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|x86.ActiveCfg = Release|x86
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0750EEBC-9026-4047-B2BD-9C1D3736D818} = {A2E47E37-D406-4630-9221-E5A0E27AC697}
+	EndGlobalSection
+EndGlobal
